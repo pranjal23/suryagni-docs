@@ -11,7 +11,7 @@ Suryagni is a beautiful, locally-hosted desktop application for Windows that bri
 *   **Aesthetic Experience:** Immerse yourself in our custom UI, featuring elegant "Cosmic Copper" and "Ancient Manuscript" themes that make reading your chart a spiritual experience.
 *   **Precision Calculations:** Input your exact birth date, time, and location for highly accurate planetary positions.
 *   **100% Private & Local:** Your sensitive birth data never leaves your computer. All charts and calculations are processed locally on your machine. 
-*   **Premium PDF Reports:** Generate beautiful, printable "Tala Patra" styled reports that you can keep forever.
+*   **Premium PDF Reports:** Generate beautiful, printable "Tala Patra" styled reports that you can keep forever. Get the whole picture at once. Export all your scattered data into a single, easy-to-read consolidated REPORT. Upgrade to unlock unlimited, beautifully formatted reports for all your saved charts.
 
 ---
 
