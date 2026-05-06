@@ -1,4 +1,4 @@
-# 🌞 Suryagni: Premium Vedic Astrology
+# 🌞 Suryagni: Free Vedic Astrology/Jyotish Software
 
 **Discover the depths of your destiny with precision and elegance.**
 
