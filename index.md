@@ -4,6 +4,8 @@
 
 Suryagni is a beautiful, locally-hosted desktop application for Windows that brings ancient Vedic astrological wisdom into the modern era. Designed with deep, immersive themes and exact astronomical calculations, it is the perfect tool for both beginners and experienced astrologers.
 
+> **Microsoft Store:** [Get Suryagni Free](https://apps.microsoft.com/detail/9NJ9KPKX8TBS) with an optional one-time in-app purchase for generating reports.
+
 ---
 
 ## ✨ Features
@@ -17,7 +19,9 @@ Suryagni is a beautiful, locally-hosted desktop application for Windows that bri
 
 ## 🔓 Choose Your Path
 
-Suryagni is completely free to download and use for basic chart casting. For those seeking deeper insights, we offer a one-time Premium unlock directly through the Microsoft Store.
+Suryagni is completely free to download and use for basic chart casting. A one-time premium in-app purchase is available for generating reports.
+
+> **Recommended next step:** [Open the Microsoft Store listing](https://apps.microsoft.com/detail/9NJ9KPKX8TBS) to get the free app and optional report-generation upgrade.
 
 ### Free Tier
 *   Calculate accurate birth charts.
@@ -32,10 +36,8 @@ Suryagni is completely free to download and use for basic chart casting. For tho
 | ![Screenshot 4](./assets/Screenshot_4.png) | ![Screenshot 5](./assets/Screenshot_5.png) | ![Screenshot 6](./assets/Screenshot_6.png) |
 
 ### Premium Unlock (One-Time Purchase)
-*   **Deep-Dive Dasha Narratives:** Understand the overarching periods of your life.
-*   **Gochar (Transit) Analysis:** See how current planetary movements affect your natal chart.
-*   **Astrological Remedies:** Receive personalized Gemstone and Mantra recommendations.
-*   **PDF Generation:** Export your complete reading into a beautiful, multi-page document.
+*   **Available on the Microsoft Store:** [Unlock report generation with a one-time in-app purchase](https://apps.microsoft.com/detail/9NJ9KPKX8TBS).
+*   Generate beautiful, multi-page PDF reports for your charts.
 
 **Premium Screenshots**
 
