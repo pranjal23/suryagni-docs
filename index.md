@@ -24,11 +24,25 @@ Suryagni is completely free to download and use for basic chart casting. For tho
 *   View planetary positions and basic planetary states.
 *   Clean, ad-free UI experience.
 
+**Screenshots**
+
+| | | |
+|---|---|---|
+| ![Screenshot 1](./assets/Screenshot_1.png) | ![Screenshot 2](./assets/Screenshot_2.png) | ![Screenshot 3](./assets/Screenshot_3.png) |
+| ![Screenshot 4](./assets/Screenshot_4.png) | ![Screenshot 5](./assets/Screenshot_5.png) | ![Screenshot 6](./assets/Screenshot_6.png) |
+
 ### Premium Unlock (One-Time Purchase)
 *   **Deep-Dive Dasha Narratives:** Understand the overarching periods of your life.
 *   **Gochar (Transit) Analysis:** See how current planetary movements affect your natal chart.
 *   **Astrological Remedies:** Receive personalized Gemstone and Mantra recommendations.
 *   **PDF Generation:** Export your complete reading into a beautiful, multi-page document.
+
+**Premium Screenshots**
+
+| | |
+|---|---|
+| ![Daily Transit Report 1](./assets/Report_Daily_Transit_1.png) | ![Daily Transit Report 2](./assets/Report_Daily_Transit_2.png) |
+| ![Daily Transit Report 3](./assets/Report_Daily_Transit_3.png) | ![Remedies Report](./assets/Report_Remedies_1.png) |
 
 ---
 
