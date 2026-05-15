@@ -6,6 +6,18 @@ Suryagni is a beautiful, locally-hosted desktop application for Windows that bri
 
 > **Microsoft Store:** [Get Suryagni Free](https://apps.microsoft.com/detail/9NJ9KPKX8TBS) with an optional one-time in-app purchase for generating reports.
 
+## 📺 Watch Suryagni in Action
+
+Check out this quick demonstration of Suryagni's features and beautiful design:
+
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=MRh6VHGD-nI">
+    <img src="https://img.youtube.com/vi/MRh6VHGD-nI/maxresdefault.jpg" alt="Watch Suryagni Demo" style="width:100%; max-width:560px; border-radius: 10px; box-shadow: 0 4px 15px rgba(0,0,0,0.3);">
+    <br>
+    ▶️ <b>Watch the Demonstration</b>
+  </a>
+</div>
+
 ---
 
 ## ✨ Features
